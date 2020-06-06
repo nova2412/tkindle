@@ -1,0 +1,30 @@
+D:\CNTT\Lập trình trên windows\KindleTeam8\bin\Debug\KidleTeam8.exe.config
+D:\CNTT\Lập trình trên windows\KindleTeam8\bin\Debug\KidleTeam8.exe
+D:\CNTT\Lập trình trên windows\KindleTeam8\bin\Debug\KidleTeam8.pdb
+D:\CNTT\Lập trình trên windows\KindleTeam8\obj\Debug\KindleTeam8.csprojAssemblyReference.cache
+D:\CNTT\Lập trình trên windows\KindleTeam8\obj\Debug\KidleTeam8.MainForm.resources
+D:\CNTT\Lập trình trên windows\KindleTeam8\obj\Debug\KidleTeam8.Properties.Resources.resources
+D:\CNTT\Lập trình trên windows\KindleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+D:\CNTT\Lập trình trên windows\KindleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+D:\CNTT\Lập trình trên windows\KindleTeam8\obj\Debug\KidleTeam8.exe
+D:\CNTT\Lập trình trên windows\KindleTeam8\obj\Debug\KidleTeam8.pdb
+D:\CNTT\Lập trình trên windows\KindleTeam8\bin\Debug\Interop.AcroPDFLib.dll
+D:\CNTT\Lập trình trên windows\KindleTeam8\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\CNTT\Lập trình trên windows\KindleTeam8\obj\Debug\Interop.AcroPDFLib.dll
+D:\CNTT\Lập trình trên windows\KindleTeam8\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\CNTT\Lập trình trên windows\KindleTeam8\obj\Debug\KindleTeam8.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\bin\Debug\KidleTeam8.exe.config
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\bin\Debug\KidleTeam8.exe
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\bin\Debug\KidleTeam8.pdb
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\obj\Debug\KindleTeam8.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\obj\Debug\KidleTeam8.MainForm.resources
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\obj\Debug\KidleTeam8.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\obj\Debug\KindleTeam8.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\obj\Debug\KindleTeam8.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\obj\Debug\KidleTeam8.exe
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\obj\Debug\KidleTeam8.pdb
+C:\Users\ADMIN\Downloads\KindleTeam8\KindleTeam8\obj\Debug\KindleTeam8.csprojAssemblyReference.cache
